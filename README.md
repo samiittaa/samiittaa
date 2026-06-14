@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Samita
 
-<!--
-**samiittaa/samiittaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying at KCC.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name: Samita
+- Age: 20
+- New to coding
+- Learning C and C++
+- Interested in improving my programming and problem-solving skills
+
+## Currently Learning
+
+- C Programming
+- C++ Programming
+- Basic programming concepts
+
+## Goals
+
+- Build a strong foundation in programming
+- Work on personal projects
+- Learn new technologies
+- Contribute to open-source projects in the future
+
+## Journey
+
+I am at the beginning of my coding journey and continuously learning new concepts every day.
+
+---
+
+Thank you for visiting my profile.
